@@ -1,6 +1,6 @@
 ### About me:
 
-- 🔭 I’m currently working in [Juvenes](http://www.juvenes.it/)
+- 🔭 I’m currently working in [Juvenes](https://www.juvenes.it/)
 - 🌱 I’m currently studing at [UniTN](https://www.unitn.it/)
 - 🛌 I’m currently living in [Rainerum](https://www.rainerum.it/)
 - 🎹 I played the piano!

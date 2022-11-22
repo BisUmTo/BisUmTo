@@ -48,7 +48,7 @@ Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/e
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bisumto)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bisumto&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
